@@ -10,5 +10,3 @@ Navigate to the proh=ject folder in command prompt and run
 and then 
 
 ```npm start```
-
-
