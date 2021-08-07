@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +38,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+table, th, td {
+  border: 1px solid gray;
+  border-radius: 5px;
 }
